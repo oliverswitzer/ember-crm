@@ -25,6 +25,9 @@ gem 'jquery-rails'
 gem 'ember-rails'
 gem 'ember-source', '~> 1.8.1'
 gem 'emblem-rails'
+gem 'ffaker'
+
+gem 'puma'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
